@@ -1,4 +1,4 @@
-![Most Used Languages](https://github-readme-stats-beryl-five-45.vercel.app/api?username=jshujshu&show_icons=true&theme=github_dark&count_private=true)
+![Most Used Languages](https://github-readme-stats-beryl-five-45.vercel.app/api?username=jshujshu&show_icons=true&theme=dark&count_private=true)
 
 ![Top Languages](https://github-readme-stats-beryl-five-45.vercel.app/api/top-langs?username=jshujshu&show_icons=true&theme=github_dark&count_private=true)
 
