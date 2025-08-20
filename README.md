@@ -1,5 +1,7 @@
 ![Most Used Languages](https://github-readme-stats-beryl-five-45.vercel.app/api?username=jshujshu&show_icons=true&theme=github_dark)
 
+![Top Languages](https://github-readme-stats-beryl-five-45.vercel.app/api/top-langs?username=jshujshu&show_icons=true&theme=github_dark)
+
 <!-- ## Hi there 👋
 
 **jshujshu/jshujshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
