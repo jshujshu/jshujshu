@@ -1,3 +1,5 @@
+![Top Languages](https://github.com/jshujshu/jshujshu/raw/master/top-langs.svg)
+
 ![Most Used Languages](https://github-readme-stats-beryl-five-45.vercel.app/api?username=jshujshu&show_icons=true&theme=github_dark&count_private=true)
 
 ![Top Languages](https://github-readme-stats-beryl-five-45.vercel.app/api/top-langs?username=jshujshu&show_icons=true&theme=github_dark&count_private=true)
